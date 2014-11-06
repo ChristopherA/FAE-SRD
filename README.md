@@ -25,3 +25,7 @@ _FAE-SRD_ markdown (GitHub-style) conversion and GitHub project hosting by Chris
 **poweredbyfatelight.svg** derived from [Powered-by-Fate-Logos.zip](http://www.faterpg.com/wp-content/uploads/2013/06/Powered-by-Fate-Logos.zip). Added the 3 Fate Dice(tm) faces **blank.svg**, **minus.svg**, **plus.svg**; the 4 Fate Actions Icons: **attack.svg**, **createadvantage.svg**, **defend.svg**,
 **overcome.svg**; and the 2 Fate Stress Boxes **box-empy.svg**, **box-filled.svg** derived from [Fate-Core-Font.ttf_.zip](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-Font.ttf_.zip). All used with permission as per Fate licensing pages at [_www.faterpg.com/licensing/_](http://www.faterpg.com/licensing/).
   * Initial conversion of **Fate-Accelerated-SRD-CC.html** to markdown format (GitHub-flavored) in **Fate-Accelerated-SRD-CC.md**.
+* 1.0.2 - Conversion Release
+  * Numerous small formatting corrections.
+  * Added PDF versions of SVG files.
+  * Added conversions of master .md version to .pages, .doc and .rtfd.
