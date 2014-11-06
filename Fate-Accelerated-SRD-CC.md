@@ -28,7 +28,7 @@ _Fate Accelerated Edition_ is a tabletop roleplaying game, where you and your fr
 Here's what you'll need to play:
 
 * **Three to five people.** One of you will be the **gamemaster**, the others **players**. We'll talk about what those mean later.
-* Fate Dice(tm), at least four, preferably four per person. These are a special kind of six-sided dice that are marked on two sides with a plus symbol ![+](./images/plus.svg), two sides with a minus symbol ![-](./images/minus.svg), and two sides are blank ![0](./images/blank.svg). You can get these dice from many hobby and game stores, often under their original name - Fudge dice. We call them Fate Dice in this book, but you can call them whatever you like. Evil Hat will offer Fate Dice for sale at [_www.evilhat.com_](http://www.evilhat.com) later in 2013.
+* **Fate Dice(tm)**, at least four, preferably four per person. These are a special kind of six-sided dice that are marked on two sides with a plus symbol ![+](./images/plus.svg), two sides with a minus symbol ![-](./images/minus.svg), and two sides are blank ![0](./images/blank.svg). You can get these dice from many hobby and game stores, often under their original name - Fudge dice. We call them Fate Dice in this book, but you can call them whatever you like. Evil Hat will offer Fate Dice for sale at [_www.evilhat.com_](http://www.evilhat.com) later in 2013.
 
 > If you don't want to use Fudge dice, you don't have to - any set of regular six- sided dice will work. If you're using regular dice, you read 5 or 6 as ![+](./images/plus.svg), 1 or 2 as ![-](./images/minus.svg), and 3 or 4 as ![0](./images/blank.svg).
 
@@ -58,7 +58,7 @@ Well, first you need to figure out what kind of story you're going to tell. What
 Next, it's time to choose who will be the players, and who will be the gamemaster. Of the people around the table, all but one are referred to as **players**. Each player takes on the role of one **player character** or **PC** in the story, and puts themselves in their character's shoes to make the decisions that their character would make. The remaining person is called the **gamemaster** or **GM**. The [GM's job](#being-the-gm) is to present challenges to the players and to portray all the characters that aren't controlled by the players (**non-player characters** or **NPCs**).
 Once you decide who the GM will be, and what the genre and framework of the story will be, it's time for the players to make their characters - that's in the [next chapter](#who-do-you-want-to-be-).
 
-### Telling Stories "Together"? What Do You Mean?
+## Telling Stories "Together"? What Do You Mean?
 
 All the people at the table, GM and players alike, are responsible for telling the story. When you make a decision for your character (or for one of the NPCs, if you're the GM), think about two things.
 
@@ -127,7 +127,7 @@ Describe your character's appearance and give them a name.
 
 ### Approaches
 
-Choose your approaches.
+Choose your **approaches**.
 
 Approaches are descriptions of _how_ you accomplish tasks. Everyone has the same six approaches:
 
@@ -208,10 +208,10 @@ How do you know if you're successful? Often, you just succeed, because the actio
 >
 > 1. Describe what you want your character to do. See if someone or something can stop you.
 > 2. Decide what action you're taking: _create an advantage_, _overcome_, _attack_, or _defend_.
-> 3. Decide on your approach. |
-> 4. Roll dice and add your approach's bonus. |
-> 5. Decide whether to modify your roll with aspects. |
-> 6. Figure out your outcome. |
+> 3. Decide on your approach.
+> 4. Roll dice and add your approach's bonus.
+> 5. Decide whether to modify your roll with aspects.
+> 6. Figure out your outcome.
 
 ## Dice or Cards
 
@@ -253,7 +253,7 @@ So you've narrated what your PC is trying to do, and you've established that the
 
 ### Create an Advantage
 
-  ![Powered by Fate](./images/createadvantage.svg)
+  ![Create Advantage Icon](./images/createadvantage.svg)
 
 **Creating an advantage** is anything you do to try to help yourself or one of your friends. Taking a moment to very carefully aim your proton blaster, spending several hours doing research in the school library, or tripping the thug who's trying to rob you - these all count as creating an advantage. The target of your action may get a chance to use the defend action to stop you. The advantage you create lets you do one of the following three things:
 
@@ -273,6 +273,42 @@ So you've narrated what your PC is trying to do, and you've established that the
 * **If you fail:** You don't get any additional benefit from the aspect. You can still invoke it in the future if you'd like, at the cost of a fate point.
 * **If you tie or succeed:** You get one free invocation on the aspect for you or an ally to use later. You might want to draw a circle or a box on the aspect's note card, and check it off when that invocation is used.
 * **If you succeed with style:** You get _two_ free invocations on the aspect, which you can let an ally use, if you wish.
+
+### Overcome
+
+  ![Overcome Icon](./images/overcome.svg)
+
+You use the **overcome** action when you have to get past something that's between you and a particular goal - picking a lock, escaping from handcuffs, leaping across a chasm, flying a spaceship through an asteroid field. _(More on [setting difficulties...](#setting-difficulty-levels))_ Taking some action to eliminate or change an inconvenient [situation aspect](#situation-aspects) is usually an overcome action; we'll talk more about that in [_Aspects and Fate Points_](#aspects-and-fate-points). The target of your action may get a chance to use the defend action to stop you.
+
+* **If you fail:** You have a tough choice to make. You can simply fail - the door is still locked, the thug still stands between you and the exit, the enemy spaceship is still _**On Your Tail**_. Or you can succeed, but at a serious cost - maybe you drop something vital you were carrying, maybe you suffer harm. The GM helps you figure out an appropriate cost.
+* **If you tie:** You attain your goal, but at some minor cost. The GM could introduce a complication, or present you with a tough choice (you can rescue one of your friends, but not the other), or some other twist. See _"Succeed at a Cost"_ in _Running the Game_ in _Fate Core_ for more ideas.
+* **If you succeed:** You accomplish what you were trying to do. The lock springs open, you duck around the thug blocking the door, you manage to lose the alien spaceship on your tail.
+* **If you succeed with style:** As success (above), but you also gain a boost.
+
+### Attack
+
+  ![Attack Icon](./images/attack.svg)
+
+Use an **attack** when you try to hurt someone, whether physically or mentally - swinging a sword, shooting a blaster rifle, or yelling a blistering insult with the intent to hurt your target. (We'll talk about this in [_Ouch! Damage, Stress, and Consequences_](#ouch-damage-stress-and-consequences), but the important thing is: If someone gets hurt too badly, they're knocked out of the scene.) The target of your attack gets a chance to use the defend action to stop you.
+
+* **If you fail:** Your attack doesn't connect. The target parries your sword, your shot misses, your target laughs off your insult.
+* **If you tie:** Your attack doesn't connect strongly enough to cause any harm, but you gain a boost.
+* **If you succeed:** Your attack hits and you do damage. See [_Ouch! Damage, Stress, and Consequences_](#ouch-damage-stress-and-consequences).
+* **If you succeed with style:** You hit and do damage, plus you have the option to reduce the damage your hit causes by one and gain a boost.
+
+### Defend
+
+  ![Defend Icon](./images/defend.svg)
+
+Use **defend** when you're actively trying to stop someone from doing any of the other three actions - you're parrying a sword strike, trying to stay on your feet, blocking a doorway, and the like. Usually this action is performed _on someone else's turn_, reacting to their attempt to attack, overcome, or create an advantage. You may also roll to oppose some non-attack actions, or to defend against an attack on someone else, if you can explain why you can. Usually it's fine if most people at the table agree that it's reasonable, but you can also point to an relevant situation aspect to justify it. When you do, you become the target for any bad results.
+
+* **If you fail:** You're on the receiving end of whatever your opponent's success gives them.
+* **If you tie or succeed:** Things don't work out too badly for you; look at the description of your opponent's action to see what happens.
+* **If you succeed with style:** Your opponent doesn't get what they want, plus you gain a boost.
+
+### Getting Help
+
+An ally can help you perform your action. When an ally helps you, they give up their action for the exchange and describe how they're providing the help; you get a +1 to your roll for each ally that helps this way. Usually only one or two people can help this way before they start getting in each other's way; the GM decides how many people can help at once.
 
 > **ACTIONS & OUTCOMES: THE 30-SECOND VERSION**
 >
@@ -310,42 +346,6 @@ So you've narrated what your PC is trying to do, and you've established that the
 > * **Tie:** Look at your opponent's action to see what happens.
 > * **Succeed:** Your opponent doesn't get what they want.
 > * **Succeed with Style:** Your opponent doesn't get what they want, and you get a **boost**.
-
-### Overcome
-
-  ![Powered by Fate](./images/overcome.svg)
-
-You use the **overcome** action when you have to get past something that's between you and a particular goal - picking a lock, escaping from handcuffs, leaping across a chasm, flying a spaceship through an asteroid field. _(More on [setting difficulties...](#setting-difficulty-levels))_ Taking some action to eliminate or change an inconvenient [situation aspect](#situation-aspects) is usually an overcome action; we'll talk more about that in [_Aspects and Fate Points_](#aspects-and-fate-points). The target of your action may get a chance to use the defend action to stop you.
-
-* **If you fail:** You have a tough choice to make. You can simply fail - the door is still locked, the thug still stands between you and the exit, the enemy spaceship is still _**On Your Tail**_. Or you can succeed, but at a serious cost - maybe you drop something vital you were carrying, maybe you suffer harm. The GM helps you figure out an appropriate cost.
-* **If you tie:** You attain your goal, but at some minor cost. The GM could introduce a complication, or present you with a tough choice (you can rescue one of your friends, but not the other), or some other twist. See _"Succeed at a Cost"_ in _Running the Game_ in _Fate Core_ for more ideas.
-* **If you succeed:** You accomplish what you were trying to do. The lock springs open, you duck around the thug blocking the door, you manage to lose the alien spaceship on your tail.
-* **If you succeed with style:** As success (above), but you also gain a boost.
-
-### Attack
-
-  ![Powered by Fate](./images/attack.svg)
-
-Use an **attack** when you try to hurt someone, whether physically or mentally - swinging a sword, shooting a blaster rifle, or yelling a blistering insult with the intent to hurt your target. (We'll talk about this in [_Ouch! Damage, Stress, and Consequences_](#ouch-damage-stress-and-consequences), but the important thing is: If someone gets hurt too badly, they're knocked out of the scene.) The target of your attack gets a chance to use the defend action to stop you.
-
-* **If you fail:** Your attack doesn't connect. The target parries your sword, your shot misses, your target laughs off your insult.
-* **If you tie:** Your attack doesn't connect strongly enough to cause any harm, but you gain a boost.
-* **If you succeed:** Your attack hits and you do damage. See [_Ouch! Damage, Stress, and Consequences_](#ouch-damage-stress-and-consequences).
-* **If you succeed with style:** You hit and do damage, plus you have the option to reduce the damage your hit causes by one and gain a boost.
-
-### Defend
-
-  ![Powered by Fate](./images/defend.svg)
-
-Use **defend** when you're actively trying to stop someone from doing any of the other three actions - you're parrying a sword strike, trying to stay on your feet, blocking a doorway, and the like. Usually this action is performed _on someone else's turn_, reacting to their attempt to attack, overcome, or create an advantage. You may also roll to oppose some non-attack actions, or to defend against an attack on someone else, if you can explain why you can. Usually it's fine if most people at the table agree that it's reasonable, but you can also point to an relevant situation aspect to justify it. When you do, you become the target for any bad results.
-
-* **If you fail:** You're on the receiving end of whatever your opponent's success gives them.
-* **If you tie or succeed:** Things don't work out too badly for you; look at the description of your opponent's action to see what happens.
-* **If you succeed with style:** Your opponent doesn't get what they want, plus you gain a boost.
-
-### Getting Help
-
-An ally can help you perform your action. When an ally helps you, they give up their action for the exchange and describe how they're providing the help; you get a +1 to your roll for each ally that helps this way. Usually only one or two people can help this way before they start getting in each other's way; the GM decides how many people can help at once.
 
 ## Choose Your Approach
 
@@ -449,12 +449,12 @@ Then, one of two things happens:
 
 > **STRESS & CONSEQUENCES: THE 30-SECOND VERSION**
 >
-> * Each character starts with three stress boxes. |
-> * Severity of hit (in shifts) = Attack Roll - Defense Roll |
-> * When you take a hit, you need to account for how that hit damages you. One way to absorb the damage is to take stress; you can check one stress box to handle some or all of a single hit. You can absorb a number of shifts equal to the number of the box you check: one for Box 1, two for Box 2, three for Box 3. |
-> * You may also take one or more consequences to deal with the hit, by marking off one or more consequence slots and writing a new aspect for each one. Mild consequence = 2 shifts; moderate = 4 shifts; severe = 6 shifts. |
-> * If you can't (or decide not to) handle the entire hit, you're taken out. Your opponent decides what happens to you. |
-> * Giving in before your opponent's roll allows you to control how you exit the scene. You also get one or more fate points for doing this! |
+> * Each character starts with three stress boxes.
+> * Severity of hit (in shifts) = Attack Roll - Defense Roll
+> * When you take a hit, you need to account for how that hit damages you. One way to absorb the damage is to take stress; you can check one stress box to handle some or all of a single hit. You can absorb a number of shifts equal to the number of the box you check: one for Box 1, two for Box 2, three for Box 3.
+> * You may also take one or more consequences to deal with the hit, by marking off one or more consequence slots and writing a new aspect for each one. Mild consequence = 2 shifts; moderate = 4 shifts; severe = 6 shifts.
+> * If you can't (or decide not to) handle the entire hit, you're taken out. Your opponent decides what happens to you.
+> * Giving in before your opponent's roll allows you to control how you exit the scene. You also get one or more fate points for doing this!
 > * Stress and mild consequences vanish at the end of the scene, provided you get a chance to rest. Other consequences take longer.
 
 ## What Is Stress?
@@ -474,7 +474,7 @@ Consequences are new aspects that you take to reflect being seriously hurt in so
 A major downside of consequences is that each consequence is a new aspect that your opponents can invoke against you. The more you take, the more vulnerable you are. And just like situation aspects, the character that creates it (in this case, the character that hit you) gets one free invocation on that consequence. They can choose to let one of their allies use the free invocation.
 
 Example:
-_Let's say that you get hit really hard and take a 4-shift hit. You check Box 2 on your stress track, which leaves you with 2 shifts to deal with. If you can't, you're taken out, so it's time for a consequence. You can choose to write a new aspect in the consequence slot labeled 2 - say, **Sprained Ankle**. Those final 2 shifts are taken care of and you can keep fighting!_
+_Let's say that you get hit really hard and take a 4-shift hit. You check Box 2 on your stress track, which leaves you with 2 shifts to deal with. If you can't, you're taken out, so it's time for a consequence. You can choose to write a new aspect in the consequence slot labeled 2 - say, _**Sprained Ankle**_. Those final 2 shifts are taken care of and you can keep fighting!_
 
 If you're unable to absorb all of a hit's shifts - by checking a stress box, taking consequences, or both - you're taken out.
 
@@ -544,7 +544,7 @@ A **boost** is a temporary aspect that you get to use once (see [_What Do You Do
 Examples:
 _**In My Sights**_; _**Distracted**_; _**Unstable Footing**_; _**Rock in His Boot**_
 
-> **Player vs. Player (PVP)**
+> **PLAYER VS. PLAYER (PVP)**
 >
 > The only time that fate point might not go to the GM is when you're in conflict with another player. If you are, and you invoke one of that player's character aspects to help you out against them, they will get the fate point instead of the GM once the scene is over.
 
@@ -578,6 +578,7 @@ _Important:_ You can only invoke any aspect once on a given dice roll; you can't
 If you're invoking an aspect to add a bonus or reroll your dice, wait until _after_ you've rolled to do it. No sense spending a fate point if you don't need to!
 
 #### Free invocations
+
 [Sometimes you can invoke an aspect for free](#succeed-with-style), without paying a fate point. If you create or discover an aspect through the [create an advantage](#create-an-advantage) action, the first invocation on it (by you or an ally) is free (if you [succeeded with style](#outcomes), you get two freebies. If you cause a consequence through an attack, you or an ally can invoke it once for free. A [boost](#boosts) is a special kind of aspect that grants one free invocation, then it vanishes.
 
 ### Compelling Aspects
@@ -602,7 +603,7 @@ In any case, when an aspect is compelled against you, the person compelling it o
 >
 > Fate points you award for compels do NOT come from this pool. You never have to worry about running out of fate points to award for compels.
 
-### Establishing Facts
+## Establishing Facts
 
 The final thing that aspects can do is [establish facts](#establishing-facts) in the game. You don't have to spend any fate points, roll dice, or anything to make this happen - just by virtue of having the aspect _**Ruddy Duck's Pilot**_, you've established that your character is a pilot and that you fly a plane named the _Ruddy Duck_. Having the aspect _**Mortal Enemy: The Red Ninjas**_ establishes that the setting has an organization called the Red Ninjas and that they're after you for some reason. If you take the aspect _**Sorcerer of the Mysterious Circle**_, you not only establish that there's a group of sorcerers called the Mysterious Circle, but that _magic exists in the setting and that you can perform it_.
 
@@ -616,9 +617,11 @@ When you need to think of a good aspect (we're mainly talking about character an
 * How it might hurt you - when it would be compelled against you.
 
 For example:
+
 _**I'll Get You, von Stendahl!**_
 * _Invoke this when acting against von Stendahl to improve your chances._
 * _Get a fate point when your dislike for von Stendahl makes you do something foolish to try to get him._
+
 _**Hair Trigger Nerves**_
 * _Invoke this when being extra vigilant and careful would help you._
 * _Get a fate point when this causes you to be jumpy and be distracted by threats that aren't really there._
@@ -822,7 +825,7 @@ Example:
   **Bad (-2) at:** Thinking ahead, fighting when outnumbered
   **Stress:** ![0](./images/box-empy.svg) ![0](./images/box-empy.svg) (4 thugs)
 
-**Fate Core** has a way of handling this, called mobs (see the _"Creating the Opposition"_ section of the _Running the Game_ chapter in _Fate Core_). Feel free to use that option if you prefer. Note that it may lead to very strong mobs, unless you start with extremely weak mooks - if you want to give your PCs a serious challenge, that could be one way to do it.
+_Fate Core_ has a way of handling this, called mobs (see the _"Creating the Opposition"_ section of the _Running the Game_ chapter in _Fate Core_). Feel free to use that option if you prefer. Note that it may lead to very strong mobs, unless you start with extremely weak mooks - if you want to give your PCs a serious challenge, that could be one way to do it.
 
 # Example Characters
 
